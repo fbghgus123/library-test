@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "library-test"
 include(":app")
+include(":mylibrar")
